@@ -1,0 +1,74 @@
+We are working as a Data Analyst at Tata Power and you have been tasked with evaluating the performance, profitability, and expansion potential of electric vehicle charging infrastructure across districts. The objective is to combine operational data, customer usage, and financial ROI metrics to guide investment decisions, optimize station performance, and identify high potential locations for future expansion.
+
+We are required to build an Excel dashboard with 3 to 4 pages that will be used by senior management, strategy teams, and operations managers to make decisions related to expansion, pricing, and infrastructure investment.
+ 
+Page 1: Business and Usage Overview
+
+Problems to address:
+ 
+•	How is charging demand evolving over time
+•	Are stations able to handle growing demand
+•	What is the charging behaviour pattern by time of day
+
+KPIs to track:
+•	Total charging sessions
+•	Total energy consumed (kWh charged)
+•	Total revenue (from charging sessions)
+•	Number of active customers
+•	Average revenue per session
+•	Average kWh per session
+ 
+Page 2: Station Utilization and Operational Efficiency
+
+Problems to address:
+
+•	Which stations are overutilized and may require capacity expansion
+•	Which stations are underutilized and need operational improvement
+•	Are available plugs being efficiently used across locations
+•	What is the load distribution across districts and stations
+
+KPIs to track:
+•	Number of sessions per station
+•	Average utilization per station (sessions per plug)
+•	Plugs count vs actual usage
+•	Average kWh per station
+•	District wise station density
+•	Sessions per plug ratio
+ 
+Page 3: Customer and Demand Behavior
+
+Problems to address:
+
+•	What type of customers contribute most to usage and revenue
+•	How does income tier influence charging behavior
+•	What are the usage patterns across different EV models and battery capacities
+•	Are there segments with high potential but low engagement
+KPIs to track:
+
+•	Unique customers count
+•	Sessions per customer
+•	Average kWh per customer
+•	Revenue per customer
+•	Usage by income tier
+•	Usage by car model and battery capacity
+ 
+Page 4: Financial Performance and Expansion Strategy (ROI Focus)
+
+Problems to address:
+
+•	Which districts and projects deliver the highest ROI
+•	What is the payback period for different charging setups
+•	How do costs such as CAPEX, land lease, and infrastructure impact profitability
+•	Which locations should be prioritized for new station deployment based on demand and ROI
+•	What is the gap between existing infrastructure and projected EV demand
+
+KPIs to track:
+•	Total CAPEX per project
+•	Annual revenue and EBITDA
+•	Payback period (with and without subsidy)
+•	5 year ROI percentage
+•	Existing stations vs projected EVs
+•	Demand supply gap (projected EVs vs projected plugs)
+•	Priority tier classification
+ 
+These dashboards will help stakeholders decide where to invest next, how to optimize existing stations, how to improve customer engagement, and how to maximize return on investment across districts.
