@@ -1,6 +1,8 @@
 # Dashboard
 
-The interactive Excel dashboard exceeds GitHub's file size limit and is therefore not included in this repository.
+The complete Excel dashboard can be accessed here:
+
+🔗 [Download Excel Dashboard](https://docs.google.com/spreadsheets/d/1e1f84IQxq5HUZtEQPkJP4Jx9byCHcAQ9/edit?usp=sharing&ouid=112747456692117178826&rtpof=true&sd=true)
 
 This folder contains screenshots of all dashboard pages.
 
@@ -14,5 +16,3 @@ The dashboard was developed using:
 - Data Model
 - Slicers
 - Excel Formulas
-
-The complete workbook is available upon request.
